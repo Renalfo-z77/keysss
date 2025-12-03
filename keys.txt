@@ -4,3 +4,4 @@ DEMO-KEY-2025-02-19
 harlex.ex-key-lifetime
 rayan-key-lifetime-1043
 RENALFO-LIFETIME-2HE0W2
+LIFETIME-KEY-L3JL-2JD99
